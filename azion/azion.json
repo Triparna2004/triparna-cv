@@ -1,0 +1,63 @@
+{
+  "name": "triparna-cv",
+  "bucket": "triparna-cv",
+  "preset": "astro",
+  "env": "production",
+  "prefix": "20241127112131",
+  "not-first-run": true,
+  "function": {
+    "id": 32857,
+    "name": "__DEFAULT__",
+    "file": ".edge/worker.js",
+    "args": "azion/args.json",
+    "instance-id": 31575,
+    "instance-name": "__DEFAULT__",
+    "cache-id": 0
+  },
+  "application": {
+    "id": 1732700226,
+    "name": "__DEFAULT__"
+  },
+  "domain": {
+    "id": 1732706191,
+    "name": "triparna-cv",
+    "domain_name": "iqsgspx34u.map.azionedge.net",
+    "url": "https://iqsgspx34u.map.azionedge.net"
+  },
+  "rt-purge": {
+    "purge_on_publish": true
+  },
+  "origin": [
+    {
+      "origin-id": 168469,
+      "origin-key": "e00e73b4-1fd7-4481-b580-6f6268ab816b",
+      "name": "origin-storage-default"
+    }
+  ],
+  "rules-engine": {
+    "created": false,
+    "rules": [
+      {
+        "id": 326832,
+        "name": "Set Storage Origin for All Requests",
+        "phase": "request"
+      },
+      {
+        "id": 326833,
+        "name": "Deliver Static Assets",
+        "phase": "request"
+      },
+      {
+        "id": 326834,
+        "name": "Redirect to index.html",
+        "phase": "request"
+      },
+      {
+        "id": 326835,
+        "name": "Redirect to index.html for Subpaths",
+        "phase": "request"
+      }
+    ]
+  },
+  "cache-settings": []
+}
