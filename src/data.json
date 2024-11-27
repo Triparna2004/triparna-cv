@@ -1,20 +1,20 @@
 {
   "meta": {
-    "name": "Emily Johnson",
+    "name": "Triparna Karmakar",
     "title": "Software Engineer",
     "website": "https://emjo.biz",
-    "location": "Seattle, WA",
-    "email": "emily.johnson@example.com",
-    "phone": "+1 (555) 987-6543",
+    "location": "West Bengal, India",
+    "email": "karmakartriparna1802@gmail.com",
+    "phone": "+91(********91)",
     "bio": "Dedicated software engineer with a strong background in building robust and scalable applications. Skilled in Java, Python, and JavaScript technologies. Experienced with Meta, Amazon, and Google."
   },
   "education": [
     {
-      "institution": "University of Washington",
-      "location": "Seattle, WA",
+      "institution": "NETAJI SUBHASH ENGINEERING COLLEGE",
+      "location": "West Bengal< India",
       "area": "Computer Science",
-      "degreeType": "Bachelor of Science",
-      "endDate": "2015"
+      "degreeType": "Bachelor of technology",
+      "endDate": "2020"
     }
   ],
   "work": [
@@ -22,7 +22,7 @@
       "company": "Google",
       "position": "Senior Software Engineer",
       "location": "Mountain View, CA",
-      "startDate": "2020",
+      "startDate": "2022",
       "endDate": "Present",
       "highlights": [
         "Developing machine learning algorithms for search optimization and personalized content recommendations",
